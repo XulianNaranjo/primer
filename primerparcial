@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Examen Parcial 1</title>
+    <link rel="stylesheet" type="text/css" href="semantic/dist/semantic.min.css">
+    <script
+      src="https://code.jquery.com/jquery-3.1.1.min.js"
+      integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+      crossorigin="anonymous"></script>
+    <script src="semantic/dist/semantic.min.js"></script>
+  </head>
+  <body style="background-color:silver">
+    <div class="ui sizer vertical segment">
+      
+      <div class="ui huge header">"Diferencias entre Frontend vs Backend:"</div>
+      <p>
+        De lo que llevó en el curso de Fundamentos de diseño interactivo es que el Frontend es una manera de enfocarse al usuario y que quede impresionado por la página web en cuanto a lo visual así como que sea agradable, que tenga buena creatividad y sea una página deseable para el usuario.
+        Por otra parte es Backend está más enfocado en que todo el sistema o toda la parte de programación esté funcionando al 100% y que toda la información que tenga que procesar, mandar al usuario o recibir del usuario tenga que funcionar correctamente de manera agradable y que sea efectivo en todos los dispositivos posibles.
+        Cada uno se enfoca un poco diferente sobre una página web, pero al ultimo lo que lo hace iguales es que se enfocan en el usuario que a fin de cuentas es el más importante dado que el que le dará uso a la página.
+      </p>
+      <div class="ui large header">¿Quien es el usuario final?</div>
+      <p>
+        A lo que tengo entendio sobre el usuario final es universal dado que se tiene que tener en cuenta muchos factores en la página web y que tiene que ser 100% enfocada al usuario para que sea fácil e intuitiva aparte de que el cliente puede entrar a muchos tipos de navegadores y todo tiene que ser cómodo entre los dispositivos y los navegadores para que puedan trabajar en conjunto de una manera sana.
+      </p>
+      <div class="ui medium header">¿Quien es el Cliente?</div>
+      <p>
+        Si no mal recuerdo el cliente es el dueño de la pagina mas aparte es el navegador el que trata de interpretar la información sobre la página, pero no estoy seguro se va en la parte del usuario o en el cliente, de igual manera es muy importante que el cliente esté satisfecho aunque no se pueda hacer todo lo que pidan sin cobrar más.
+      </p>
+      <div class="ui small header">"arquitectura CDN"</div>
+      <p>
+        La arquitectura CDN es una manera de entregar contenidos hacia el usuario y a la página de manera que hay diferentes tipos de sistemas para la distribución de datos para que sea mejor distribuida la información de datos y todo sea más rápido a la hora de interactuar con el usuario y los servidores.
+        Una más sencilla es pensando en que cuando entras a una página web y te pide que ingreses un usuario y contraseña, se refiere al tráfico de datos que recibirá el servidor del usuario, la CDN hará que disminuya el tiempo de respuesta y entrega al igual que contiene una mayor capacidad de conexión entre otras cosas.
+      </p>
+      <div class="ui tiny header">"Historia de HTML y CSS"</div>
+      <p>
+        En pocas palabras HTML fue creado con el fin de hacer páginas web con el fin de que cualquier página web pueda ser interpretada en cualquier navegador de igual manera HTML puede agregar otros lenguajes de programación para mejorar las páginas web. Mientras que CSS se creó para darle un crecimiento mayor a HTML para que funcionara en otros navegadores y se puedan aplicar estilos diferentes  y que sea fácil de programar sin importar el navegador.
+      </p>
+    </div>
+  </body>
+</html>
